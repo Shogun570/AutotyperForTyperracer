@@ -1,0 +1,2 @@
+# AutotyperForTyperracer
+Autotyper for typeracer
